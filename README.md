@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @JohannesMorkrid
+- 👀 I’m interested in simulation and rockets
+- 🌱 I’m currently learning rocket simulation
+- 💞️ I’m looking to collaborate on rocket simulation
+- 📫 How to reach me johannes.morkrid@propulsentnu.no
